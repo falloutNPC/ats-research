@@ -1,0 +1,14 @@
+NEEDS,beaver,harpy,human,lizard,fox
+jerky,0,1,0,1,0
+skewers,0,0,0,1,1
+biscuits,1,1,1,0,0
+pie,0,1,1,1,0
+pickledgoods,2,0,0,2,2
+porridge,0,0,1,0,1
+clothing,1,1,1,0,0
+leisure,2,0,2,0,0
+brawling,0,0,0,2,2
+religion,0,0,2,2,0
+education,2,2,0,0,0
+luxury,2,0,0,0,2
+treatment,0,2,0,0,2
